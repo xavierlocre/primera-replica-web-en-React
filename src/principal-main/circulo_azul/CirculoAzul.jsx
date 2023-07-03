@@ -1,10 +1,10 @@
-
+import './CirculoAzul.css'
 
 const CirculoAzul = () => {
 
   return (
     <div>
-        <img className="movil" src='src\assets\img\decorative-blue-circle.svg' />
+        <img className="circuloazul" src='src\assets\img\decorative-blue-circle.svg' />
     </div>
   )
 }

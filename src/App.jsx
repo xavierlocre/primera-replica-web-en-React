@@ -1,11 +1,16 @@
 
 import './App.css'
+import UserTestimonials from './UserTestimonials/UserTestimonials'
 import ContenidoMain from './principal-main/contenidoMain'
+
 
 const App = () => {
 
   return(
-    <ContenidoMain />
+    <div>
+      <ContenidoMain />
+      <UserTestimonials />
+    </div>
   )
 }
 
