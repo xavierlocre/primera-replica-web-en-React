@@ -1,5 +1,12 @@
 .imagen {
-    
+  flex: 1; /* Ocupar la mitad del contenedor */
+  text-align: center;
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
   width: 5%;
   height: 5%;
 margin: 80px;

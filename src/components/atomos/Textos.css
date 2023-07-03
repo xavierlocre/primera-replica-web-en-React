@@ -1,5 +1,19 @@
-.h2 {
-   
-    text-align: center;
-    color: red;
+.contenedor {
+
+    display: flex;
+    width: 100%;
+    flex: 10; 
+    text-align: left;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: left;
+    width: 5%;
+    height: 5%;
+  
+  
 }
+
+
