@@ -1,15 +1,17 @@
 
-import './App.css'
-import Titulo from './components/Titulos'
-import Estilos from './components/atomos/Estilos.css'
+import Imagenes from './components/atomos/Imagen.css';
+import Imagen from './components/Imagen';
+import Texto from './components/Texto';
+import Textos from './components/atomos/Textos.css';
 
 function App() {
   
 
   return (
     <>
-      <Titulo/>
       
+      <Imagen />
+      <Texto />
     </>
   )
 }
