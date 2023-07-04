@@ -2,7 +2,7 @@
     
     color:rgb(247, 250, 244);
     font-size: 16px;
-    display: flex;
-    justify-content: last baseline;
-    align-content: center;
+    display: inline-block;
+    justify-content: fcenter;
+    align-content: flex-start;
 }

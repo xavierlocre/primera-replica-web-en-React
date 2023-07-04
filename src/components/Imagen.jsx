@@ -1,3 +1,4 @@
+/* import './atomos/Imagen.css'
 const Imagen= () => {
 
     return (
@@ -11,4 +12,4 @@ const Imagen= () => {
 
 };
 
-export default Imagen;
+export default Imagen; */

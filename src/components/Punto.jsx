@@ -1,3 +1,5 @@
+/* import './atomos/Puntos.css'
+
 const Punto = () => {
 
     return (
@@ -17,4 +19,4 @@ const Punto = () => {
 
 };
 
-export default Punto;
+export default Punto; */

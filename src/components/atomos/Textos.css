@@ -1,15 +1,33 @@
+.contenedor {
+    margin: 20px;
+    display:flex;
+    justify-content:left;
+    align-content: center;
+   
+    
+}
+img {
+    width: 100px;
+}
+.section {
+margin :100%;
+    width: 100%;
+    height: 100%;
+}
+.contenedortexto{
+display: flex;    
+justify-content: center;
+align-items: center;
+text-align: center;
+flex-flow: column;
+}
+.boton {
+ 
+    background-color: brown;
+    
+}
 .h2 {
 
-    display: flex; 
-    flex: 2; 
-    text-align: right;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    width: 75%;
-    height: 75%;
- 
+    margin:50px;
+
 }
-
-

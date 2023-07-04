@@ -1,3 +1,5 @@
+/* import './atomos/Cuerpos.css'
+
 const Cuerpo = () => {
 
     return (
@@ -15,4 +17,4 @@ const Cuerpo = () => {
 
 };
 
-export default Cuerpo;
+export default Cuerpo; */
