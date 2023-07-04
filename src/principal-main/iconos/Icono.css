@@ -1,0 +1,47 @@
+.iconos{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: none;
+}
+
+section{
+    width: 70%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center
+
+}
+
+.icono1{
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(227, 203, 223);
+}
+
+.icono2{
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(205, 238, 222);
+}
+
+.icono3{
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(244, 213, 224);
+}
+
+.icono4{
+    border-radius: 50%;
+    border: snone;
+    background-color: rgb(246, 243, 216);
+}
+
+.icono5{
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(223, 235, 245);
+}

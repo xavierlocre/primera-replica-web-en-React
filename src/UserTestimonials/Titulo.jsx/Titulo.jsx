@@ -2,8 +2,8 @@ import './Titulo.css'
 
 const Titulo = () => {
     return (
-        <div>
-            <h1>User Testimonials</h1>
+        <div className='container-titulo'>
+            <h1 className='titulo'>User Testimonials</h1>
         </div>
     )
 }
