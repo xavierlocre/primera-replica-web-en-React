@@ -4,7 +4,8 @@ const Cuerpo = () => {
         
        <div className="cuerpo">
        <p>
-        Hola mundo
+       Sync is the first mobile app on the market to harness <thead>power of social connections to help you stop procrastinating</thead>
+       and start getting things done. Give it a try and see <thead>changes right away</thead>
        </p>
 
        </div>

@@ -1,5 +1,8 @@
 .cuerpo {
     
-    color:chartreuse;
-    
+    color:rgb(247, 250, 244);
+    font-size: 16px;
+    display: flex;
+    justify-content: last baseline;
+    align-content: center;
 }
